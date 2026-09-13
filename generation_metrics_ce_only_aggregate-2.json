@@ -1,0 +1,10 @@
+{
+  "run_tag": "ce_only",
+  "n_runs": 15,
+  "continuity_metric_mean": 10.599156337031026,
+  "continuity_metric_std": 4.08171972399332,
+  "rhythm_metric_mean": 0.1619162525966772,
+  "rhythm_metric_std": 0.0892578646273722,
+  "density_metric_mean": 0.014844372491767,
+  "density_metric_std": 0.0014683768579409828
+}

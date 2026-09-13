@@ -1,0 +1,10 @@
+{
+  "run_tag": "full",
+  "n_runs": 15,
+  "continuity_metric_mean": 7.728183471952403,
+  "continuity_metric_std": 1.3944268393619264,
+  "rhythm_metric_mean": 0.17679800457331968,
+  "rhythm_metric_std": 0.13858567027160346,
+  "density_metric_mean": 0.015531900314887681,
+  "density_metric_std": 0.001893209429922706
+}
